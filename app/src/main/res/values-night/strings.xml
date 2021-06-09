@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kabar</string>
+    <string name="slogan">Turning trash into useful items</string>
+
+    <string name="appbar_title_news">News</string>
+    <string name="appbar_title_classify">Classify</string>
+    <string name="appbar_title_favorite">Favorite</string>
+    <string name="appbar_title_recommendation">Recommendation</string>
+
+    <string name="botbar_title_news">News</string>
+    <string name="botbar_title_classify">Classify</string>
+    <string name="botbar_title_favorite">Favorite</string>
+    <string name="botbar_title_recommendation">Recommendation</string>
+
+
+    <string name="text_detected_item">Detected Item</string>
+    <string name="text_no_image">There is no image to classify</string>
+    <string name="btn_search_recommendation">Search Recommendation</string>
+    <string name="take_picture">camera</string>
+
+</resources>
